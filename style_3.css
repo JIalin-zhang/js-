@@ -1,0 +1,49 @@
+.body {
+    margin: 0%;
+}
+
+.jianlititle {
+    width: 100%;
+    height: 40px;
+    background-color: gray;
+    line-height: 40px;
+}
+
+.jianlititle p {
+    color: #FFFFFF;
+    padding-left: 20px;
+    line-height: 40px;
+}
+
+.jiben {
+    width: 100%;
+    border-right: 0.1px solid gray;
+    height: 100px;
+    border-bottom: 0.1px solid gray;
+}
+
+.miaoshu {
+    width: 80px;
+    height: 100px;
+    background-color: gray;
+    line-height: 100px;
+    border-bottom: 0.1px solid #FFFFFF;
+    font-size: 15px;
+    float: left;
+}
+
+.pcontent {
+    float: left;
+    font-size: 10px;
+    margin: 0;
+    width: 150px;
+    margin-left: 20px;
+}
+
+.pcontent2 {
+    float: none;
+    margin: 0;
+    font-size: 10px;
+    width: 150px;
+    margin-left: 100px;
+}
