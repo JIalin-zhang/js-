@@ -1,0 +1,29 @@
+    .body {
+        margin: 0;
+    }
+    
+    .classDiv {
+        /* background: linear-gradient(to right, red, blue); */
+        width: 100%;
+        height: 200px;
+        background-image: url(./P70209-103857.jpg);
+        background-repeat: repeat-y;
+        background-position: top;
+        line-height: 100%;
+    }
+    
+    .ulclass {
+        list-style-image: url(./back.png);
+        background-repeat: repeat-y;
+    }
+    
+    .tableClass {
+        border-collapse: collapse;
+        border: 1px solid black
+    }
+    
+    .tablediv,
+    th,
+    tr {
+        border: 1px solid black
+    }
